@@ -244,31 +244,31 @@ height: 20px;
     gap: 30px ;
     position: relative;
 }
-.pricing-container .pri-cont{
+.Sondos .pri-cont{
    
     text-align: center;
     background-color: #fcfcfc;
 }
 
-.pricing-container .pri-cont .head{
+.Sondos .pri-cont .head{
     padding: 30px;
      border-top: 1px solid var(--main-color);
     border-bottom:1px solid var(--main-color) ;
 }
 
-.pricing-container .pri-cont h3{
+.Sondos .pri-cont h3{
       font-weight: normal;
       margin-bottom: 20px;
 }
 
-.pricing-container .pri-cont span{
+.Sondos .pri-cont span{
 
          font-size: 60px;
          font-weight: bold;
          
 }
 
-.pricing-container span::before{
+.Sondos span::before{
      content: "$";
     position: relative;
     top: -40px;
@@ -277,19 +277,19 @@ height: 20px;
     font-size: 25px;
 }
 
-.pricing-container span::after{
+.Sondos span::after{
     content: "/Mo";
       font-size: 20px;
       position: relative;
     right: -15px;
 }
 
-.pricing-container .pri-cont li{
+.Sondos .pri-cont li{
     position: relative;
     padding: 20px;
 }
 
-.pricing-container .pri-cont li:not(:last-child)::after{
+.Sondos .pri-cont li:not(:last-child)::after{
     width: 140px;
     content: "";
     position: absolute;
@@ -297,7 +297,7 @@ height: 20px;
     bottom: 0%;
     left: 25%;
 }
-.pricing-container .pri-cont .foot a{
+.Sondos .pri-cont .foot a{
 background-color: #fcfcfc;
     /* text-align: center; */
     padding: 15px;
@@ -308,12 +308,12 @@ background-color: #fcfcfc;
     border: 1px solid var(--main-color);
 }
 
-.pricing-container .pri-cont .foot{
+.Sondos .pri-cont .foot{
     padding: 40px;
     position: relative;
 }
 
-.pricing-container .pri-cont .foot a::after{
+.Sondos .pri-cont .foot a::after{
     width: 100%;
     content: "";
     position: absolute;
