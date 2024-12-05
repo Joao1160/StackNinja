@@ -1,6 +1,9 @@
 
 # 0x000000E0 ACPI_BIOS_FATAL_ERROR
 
+![Alt Text](./worker-invalid-bsod_en.jpg)
+
+
 ## Fix ACPI BIOS FATAL ERROR in Windows 11/10
 
 The `ACPI_BIOS_FATAL_ERROR` bug check has a value of `0x000000E0`. This indicates that one of your computer components is faulty. To identify and resolve the issue:
